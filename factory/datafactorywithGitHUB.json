@@ -1,0 +1,9 @@
+{
+	"name": "datafactorywithGitHUB",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e78dc372-56c0-49a9-a028-b32763d0df68",
+		"tenantId": "8ebeecbe-d77f-495c-8694-e7cc544e4367"
+	}
+}
